@@ -45,8 +45,8 @@ The corpus consists of 4 files, one for each genre (Pop, Rap, Rock, Schlager). T
 ## Contact & More
 
 Please contact me if you have any questions or requests.
-Mail: thomas.schmidt@ur.de
-Twitter: https://twitter.com/thomasS_UniR
+- Mail: thomas.schmidt@ur.de
+- Twitter: https://twitter.com/thomasS_UniR
 
 Or visit my <a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/thomas-schmidt/index.html">website</a> to find similar exciting research like this ;)
 
