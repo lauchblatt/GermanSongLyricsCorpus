@@ -22,7 +22,7 @@ The paper won the third prize at the annual poster slam.
 
 If you use or reference this corpus in any shape or form please cite the paper:
 
-Schmidt, T., Bauer, M., Habler, F., Pilsl, F. & Wolff, C. (2020). Der Einsatz von Distant Reading auf einem Korpus deutschsprachiger Songtexte. In <em>DHd 2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts</em> (pp. 296-300). Paderborn, Germany. [pdf][bibtex]
+Schmidt, T., Bauer, M., Habler, F., Heuberger, H., Pilsl, F. & Wolff, C. (2020). Der Einsatz von Distant Reading auf einem Korpus deutschsprachiger Songtexte. In <em>DHd 2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts</em> (pp. 296-300). Paderborn, Germany. [pdf][bibtex]
 
 ## Important Information
 
